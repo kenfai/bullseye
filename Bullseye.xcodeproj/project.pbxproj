@@ -13,6 +13,7 @@
 		526A16AE24D6BCCD001E6F78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 526A16AD24D6BCCD001E6F78 /* Assets.xcassets */; };
 		526A16B124D6BCCD001E6F78 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 526A16B024D6BCCD001E6F78 /* Preview Assets.xcassets */; };
 		526A16B424D6BCCD001E6F78 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 526A16B224D6BCCD001E6F78 /* LaunchScreen.storyboard */; };
+		529C8A1D24DDAE75003FE05C /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 529C8A1C24DDAE75003FE05C /* AboutView.swift */; };
 		52C29FE724D85E7200D66414 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 52C29FE524D85E4300D66414 /* README.md */; };
 /* End PBXBuildFile section */
 
@@ -25,6 +26,7 @@
 		526A16B024D6BCCD001E6F78 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		526A16B324D6BCCD001E6F78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		526A16B524D6BCCD001E6F78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		529C8A1C24DDAE75003FE05C /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 		52C29FE524D85E4300D66414 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -62,6 +64,7 @@
 				526A16A724D6BCCC001E6F78 /* AppDelegate.swift */,
 				526A16A924D6BCCC001E6F78 /* SceneDelegate.swift */,
 				526A16AB24D6BCCC001E6F78 /* ContentView.swift */,
+				529C8A1C24DDAE75003FE05C /* AboutView.swift */,
 				526A16AD24D6BCCD001E6F78 /* Assets.xcassets */,
 				526A16B224D6BCCD001E6F78 /* LaunchScreen.storyboard */,
 				526A16B524D6BCCD001E6F78 /* Info.plist */,
@@ -150,6 +153,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				529C8A1D24DDAE75003FE05C /* AboutView.swift in Sources */,
 				526A16A824D6BCCC001E6F78 /* AppDelegate.swift in Sources */,
 				526A16AA24D6BCCC001E6F78 /* SceneDelegate.swift in Sources */,
 				526A16AC24D6BCCC001E6F78 /* ContentView.swift in Sources */,
